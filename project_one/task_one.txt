@@ -1,0 +1,6 @@
+git init
+git commit -m 'project_task_one'
+
+Your task 
+Create a program that shows your email adress & name
+Create a program that shows your Stack track 
